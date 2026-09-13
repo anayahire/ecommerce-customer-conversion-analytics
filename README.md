@@ -74,6 +74,11 @@ Additional analytical tables include:
 ## Power BI Dashboard
 
 The Power BI dashboard provides an interactive view of revenue, customer behavior, product performance, marketing effectiveness, and conversion funnel performance.
+### Interactive Power BI Report
+
+[📊 Download the Power BI Dashboard (.pbix)](powerbi/ecommerce_customer_conversion_analytics.pbix)
+
+> The downloadable Power BI report contains 5 interactive pages covering Executive Overview, Customer & RFM, Product Performance, Marketing Performance, and Conversion Funnel analysis.
 
 ### Executive Overview
 
