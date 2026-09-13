@@ -219,10 +219,14 @@ The project can be reproduced by installing the required Python dependencies and
 - Marketing attribution is based on the available campaign attribution fields.
 - The Power BI dashboard is documented through screenshots and model/import instructions.
 
-## Author
+## Authors
 
-**Anaya Hire** — Author  
-**Anjali Sinha** — Co-author
+| Name | Role | GitHub |
+|---|---|---|
+| **Anaya Hire** | Author | [@anayahire](https://github.com/anayahire) |
+| **Anjali Sinha** | Co-author | [@anjalisinha-08](https://github.com/anjalisinha-08) |
+
+Collaborative e-commerce analytics project using Python, SQL, and Power BI.
 
 
 Data Analytics | Python | SQL | Power BI
