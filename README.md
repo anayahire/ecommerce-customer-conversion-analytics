@@ -221,6 +221,8 @@ The project can be reproduced by installing the required Python dependencies and
 
 ## Author
 
-**Anaya Hire**
+**Anaya Hire** — Author  
+**Anjali Sinha** — Co-author
+
 
 Data Analytics | Python | SQL | Power BI
